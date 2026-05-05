@@ -1,0 +1,4 @@
+[2026-05-05 12:03:31] ERROR en Operación 2: Correo inválido: 'correo_invalido'. Debe contener '@' y un dominio.
+[2026-05-05 12:03:31] ERROR en Operación 5: La duración debe ser mayor a 0. Recibido: -1h
+[2026-05-05 12:03:31] ERROR en Operación 8: El precio no puede ser negativo. Recibido: $-5000
+[2026-05-05 12:03:31] ERROR en Operación 10: Las horas deben ser mayores a 0. Recibido: -3h
