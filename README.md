@@ -77,7 +77,8 @@ Los errores se registran en error_log.txt con fecha, contexto y descripción.
 
 ## 👥 Integrantes
 Anderson David Tapia Ochoa  
-Heidy Carolina Oviedo Villar  
+Heidy Carolina Oviedo Villar 
+Adriana Melissa Araujo Pabon
 
 ---
 
